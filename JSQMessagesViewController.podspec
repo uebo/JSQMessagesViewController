@@ -16,4 +16,5 @@ Pod::Spec.new do |s|
 	s.requires_arc = true
 
 	s.deprecated = true
+	s.homepage = 'https://github.com/uebo/JSQMessagesViewController'
 end
